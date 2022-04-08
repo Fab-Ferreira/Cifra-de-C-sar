@@ -1,0 +1,8 @@
+U:\Projetos Aleatórios\cifra de cesar\cifra de cesar\obj\Debug\cifra de cesar.csprojResolveAssemblyReference.cache
+U:\Projetos Aleatórios\cifra de cesar\cifra de cesar\obj\Debug\cifra_de_cesar.MainForm.resources
+U:\Projetos Aleatórios\cifra de cesar\cifra de cesar\obj\Debug\cifra de cesar.csproj.GenerateResource.Cache
+U:\Projetos Aleatórios\cifra de cesar\cifra de cesar\bin\Debug\cifra de cesar.exe.config
+U:\Projetos Aleatórios\cifra de cesar\cifra de cesar\bin\Debug\cifra de cesar.exe
+U:\Projetos Aleatórios\cifra de cesar\cifra de cesar\bin\Debug\cifra de cesar.pdb
+U:\Projetos Aleatórios\cifra de cesar\cifra de cesar\obj\Debug\cifra de cesar.exe
+U:\Projetos Aleatórios\cifra de cesar\cifra de cesar\obj\Debug\cifra de cesar.pdb
